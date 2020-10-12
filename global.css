@@ -1,0 +1,23 @@
+body{
+    min-height: 180vh;
+}
+.box{
+    margin-top:80vh;
+    padding:20vw;
+}
+.boxOne{
+    background-color:#0932;
+    height:200px;
+    width: 600px;
+}
+.boxTwo{
+    background-color:#092;
+    height:200px;
+    width: 600px;
+}
+
+.boxThree{
+    background-color:#529;
+    height:200px;
+    width: 600px;
+}
